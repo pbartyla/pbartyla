@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pbartyla
 - 👀 I’m interested in create a front-end app with React.
-- 🌱 I’m currently learning REACT/Webpack
-- 💞️ I’m looking to collaborate on REACT APP
+- 🌱 I’m currently learning Vue
+- 💞️ I’m looking to collaborate on Vue APP
 - 📫 How to reach me p.bartyla@gmail.com
 
 <!---
